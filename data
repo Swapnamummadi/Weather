@@ -1,0 +1,3 @@
+ApiKey= "f8d6325075c7e61b524b9e98c5e725bf";
+
+url:http://api.openweathermap.org/geo/1.0/direct?q={city name},{state code},{country code}&limit={limit}&appid={API key}
